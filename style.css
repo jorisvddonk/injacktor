@@ -1,0 +1,20 @@
+.injacktor_main {
+	background: #980052;
+}
+
+.injacktor_main input {
+	background: #C80063;
+	color: #FF81CE;
+	border: none;
+}
+.injacktor_main input::-webkit-input-placeholder {
+   color: #980052;
+}
+
+.injacktor_main table {
+	/*color: #37001B;*/
+	color: #FF71BE;
+}
+.statusLine {
+	color: #EE61AE;
+}
